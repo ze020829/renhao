@@ -21,8 +21,7 @@ https://github.com/ze020829/renhao.git
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
-
+https://github.com/ze020829/renhao/blob/5574f9b620b95733cf63aab7a92ba33c3cd7af5f/src/models/Block.js
 
 ### 代码截图
 
