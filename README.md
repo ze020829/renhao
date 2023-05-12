@@ -25,10 +25,7 @@ https://github.com/ze020829/renhao/blob/5574f9b620b95733cf63aab7a92ba33c3cd7af5f
 
 ### 代码截图
 
-> 将截图上传至网盘，放入链接即可
-
-![](链接)
-
+https://pan.baidu.com/s/1gmm_Q1XpgKjqdD8aa5MwDg?pwd=tbjz
 
 ### 主观与讨论题内容
 
