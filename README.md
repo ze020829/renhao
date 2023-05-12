@@ -2,15 +2,17 @@
 
 ## 小组成员
 
-- 2021xxxx-姓名 （组长）
-- 2021xxxx-姓名
-- 2021xxxx-姓名
-- 2021xxxx-姓名
+- 2021131022-尚龙泽 （组长）
+- 2021131021-刘冠宇
+- 2021131023-董青
+- 2021131024-周于超
+- 2021131025-辜锐彬
+- 2021131026-任豪
 
 
 ## 代码仓库链接
 
-https://github.com/caosbad/blockchain-in-js-workshop-2021(示例用，请根据自身的仓库替换)
+https://github.com/ze020829/renhao.git
 
 
 
@@ -30,6 +32,8 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 
 ### 主观与讨论题内容
+
+---
 
 ---
 
