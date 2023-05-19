@@ -1,16 +1,20 @@
 {
-  "name": "blockchain-js",
+  "name": "blockchain",
   "version": "0.1.0",
   "type": "module",
   "dependencies": {
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^3.3.0",
     "elliptic": "^6.4.0",
-    "ramda": "^0.25.0"
+    "ramda": "^0.25.0",
+    "uuid": "^9.0.0"
   },
   "scripts": {
-    "check:lesson1": "node src/tests/lesson1.js",
-    "check:lesson2": "node src/tests/lesson2.js",
-    "check:lesson3": "node src/tests/lesson3.js",
-    "check:lesson4": "node src/tests/lesson4.js"
-  }
+    "check:lesson1": "node src/tests/lesson1.js"
+  },
+  "description": "- 2021xxxx-姓名 （组长）\r - 2021xxxx-姓名\r - 2021xxxx-姓名\r - 2021xxxx-姓名",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
