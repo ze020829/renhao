@@ -1,4 +1,5 @@
-
+const Block=require('./Block.js')
+const UTXO=require('./UTXO.js')
 
    class BlockChain{
 
