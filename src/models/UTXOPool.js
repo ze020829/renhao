@@ -1,4 +1,8 @@
-const{UTXO,BlockChain,Block}=require('./chain.js')
+
+const BlockChain=require('./BlockChain.js')
+const Block=require('./Block.js')
+const UTXO=require('./UTXO')
+
 const EC= require('elliptic').ec
 const ec= new EC('secp256k1')
 
