@@ -1,6 +1,7 @@
 
 
-   
+   class BlockChain{
+
 
     constructor(){
         //存放区块的数组
