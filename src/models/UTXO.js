@@ -1,3 +1,7 @@
+const SHA256=require('crypto-js/sha256')
+
+
+
 class UTXO{
     constructor(fromAddress,toAdress,amount){
         this.fromAddress=fromAddress
