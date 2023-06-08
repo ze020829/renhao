@@ -54,7 +54,7 @@ const main = () => {
   )
 
   nextBlock = calcNonce(nextBlock)
-  // 添加两个区块高度为 2  的的竞争区块
+  
   blockchain._addBlock(nextBlock)
 
   let longestChain = blockchain.longestChain()
@@ -66,6 +66,7 @@ const main = () => {
     nextBlock.hash,
     3,
     sha256(new Date().getTime().toString()).toString(),
+    miner
   )
 
   thirdBlock = calcNonce(thirdBlock)
@@ -75,7 +76,7 @@ const main = () => {
   longestChain = blockchain.longestChain()
 
   // 区块检查
-  assert(longestChain.length == 3, 'Block height should be 2')
+  assert(longestChain.length == 3, 'Block height should be 3')
   assert(
     longestChain[2].hash == thirdBlock.hash,
     `Height block hash should be ${thirdBlock.hash}`,
