@@ -84,8 +84,7 @@ https://github.com/ze020829/renhao/tree/a39d816be0d5f3e590fff64d289f6a2380bcf79e
 
 
 ### 代码 commint 地址
-
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+https://github.com/ze020829/renhao/blob/bf2807277ebd5f7d246c07f3bedf98efe34755b0/src/tests/lesson4.js
 
 
 ### 代码截图
