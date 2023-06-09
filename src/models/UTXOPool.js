@@ -4,11 +4,6 @@ class UTXOPool {
   constructor(utxos = {}) {
     this.utxos = utxos
   }
-
-  // 添加交易函数
-  /**
-   * 将交易的信息更新至 UTXOPool 中
-   */
   addUTXO(_miner,_coinbaseBeneficiary,_input,_output) {
     var utxo = new UTXO()
     if(this.utxos[_coinbaseBeneficiary] != null){
@@ -32,17 +27,8 @@ class UTXOPool {
       return
     }
     this.utxos[_tx.from].amount -= _tx.value
-    // 本次实验to原先没有utxo，因此要创建一个新的utxo
-    // 当然这是不妥当的，如果是发送给一个现有的用户，应该是新建一个utxo然后替换
-    // 这个步骤等到需要的时候再修改吧
     this.addUTXO(_tx.to,0,_tx.value,0)
   }
-
-  // 验证交易合法性
-  /**
-   * 验证余额
-   * 返回 bool 
-   */
   isValidTransaction(_player,_value) {
     return this.utxos[_player].amount >= _value
   }
