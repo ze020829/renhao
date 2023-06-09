@@ -8,13 +8,9 @@ class Transaction {
     this.fee = _fee
     this.hash = sha256(this.from+this.to+this.value+this.fee).toString()
   }
-
-  // 更新交易 hash
   _setHash() {
 
   }
-
-  // 计算交易 hash 的摘要函数
   _calculateHash() {
     return sha256(this.from+this.to+this.value+this.fee).toString() //要将手续费一起hash
   }
