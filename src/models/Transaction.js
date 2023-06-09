@@ -8,13 +8,8 @@ class Transaction {
     this.value = _value
     this.hash = sha256(this.from,this.to,this.value).toString()
   }
-
-  // 更新交易 hash
   _setHash() {
-
   }
-
-  // 计算交易 hash 的摘要函数
   _calculateHash() {
     return sha256(this.from,this.to,this.value).toString()
   }
