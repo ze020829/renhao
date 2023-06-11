@@ -21,7 +21,7 @@ https://github.com/ze020829/renhao/tree/296dd9cce4c33c91ae69eff1c519262613eb3b34
 
 ### 代码截图
 
-链接：https://pan.baidu.com/s/1lkpS9zng5b366G_J3e5bCg?pwd=ngh2 
+链接：https://pan.baidu.com/s/1lkpS9zng5b366G_J3e5bCg 
 提取码：ngh2
 
 ### 主观与讨论题内容
