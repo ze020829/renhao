@@ -39,7 +39,7 @@ https://github.com/ze020829/renhao/tree/990bf7a4e1e5ad7c268047dd95558c23a96d24f5
 
 ### 代码截图
 
-链接：https://pan.baidu.com/s/1eKppIjiGmRjhBHJhZ5vD0w?pwd=sv2a 
+链接：https://pan.baidu.com/s/1eKppIjiGmRjhBHJhZ5vD0w
 提取码：sv2a
 
 
