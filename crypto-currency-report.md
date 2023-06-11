@@ -16,8 +16,7 @@
 
 
 ### 代码 commint 地址
-
-https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d/src/merkle
+https://github.com/ze020829/renhao/tree/296dd9cce4c33c91ae69eff1c519262613eb3b34/src/merkle
 
 
 ### 代码截图
@@ -35,7 +34,7 @@ https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d
 
 
 ### 代码 commint 地址
-https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d/src/trieTree
+https://github.com/ze020829/renhao/tree/990bf7a4e1e5ad7c268047dd95558c23a96d24f5/src/trieTree
 
 
 ### 代码截图
@@ -45,16 +44,14 @@ https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d
 
 
 ### 主观与讨论题内容
-
-
-
-## 第三课代码
 如何设计能够帮助提⾼查询效率
 查询时跳过空节点。
 
-### 代码 commint 地址
 
-https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d/src/patriticTree
+## 第三课代码
+
+### 代码 commint 地址
+https://github.com/ze020829/renhao/tree/54ac96be9421dfa93fe7ebe1788025663639a71c/src/patriticTree
 
 
 ### 代码截图
